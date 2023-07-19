@@ -1,0 +1,11 @@
+ol li img {
+  width: 125px;
+}
+table img {
+  width: 125px;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
