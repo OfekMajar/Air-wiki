@@ -1,5 +1,16 @@
+body {
+  background-color: #333333;
+  color: white;
+}
+ul li img {
+  width: 200px;
+  margin: 10px;
+}
 ol li img {
   width: 125px;
+}
+table {
+  background-color: #444444;
 }
 table img {
   width: 125px;
@@ -8,4 +19,16 @@ table,
 th,
 td {
   border: 1px solid black;
+}
+article {
+  margin-left: 10px;
+  margin-top: 25px;
+}
+article h3 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+header {
+  text-align: center;
+  background-color: #ce1126;
 }
