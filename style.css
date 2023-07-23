@@ -154,3 +154,6 @@ span {
   background-color: #fff;
   height: 2px;
 }
+a {
+  cursor: pointer;
+}
